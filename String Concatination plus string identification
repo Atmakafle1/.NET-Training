@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Demo__String_Manipulation
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            String string1 = "This is a .NET training class";
+            String string2 = "which occurs 4 days a week.";
+
+            Console.WriteLine(string1 + " " + string2);
+
+            Console.WriteLine(".....................................................");
+
+            String s1 = "Microsoft dotnet is a framework";
+            String s2 = "dotnet";
+            bool b = s1.Contains(s2);
+            Console.WriteLine("'{0}' is in string '{1}':", s2, s1);
+            Console.ReadKey();
+        }
+    }
+}
