@@ -28,6 +28,20 @@ namespace ClassAndProperties
             emp.empType = "Full Time";
             emp.noOfYearsInService = 15;
             Console.WriteLine(emp.firstName + " " + emp.lastName + " " +" "+ "is a" +" " + emp.empType +" "+ "employee with" +" "+ emp.noOfYearsInService + " " + "years of experiences.");
+            
+
+
+
+            var list = new List<string>();
+            list.Add("Apple");
+            list.Add("Orange");
+            list.Add("Grapes");
+            list.Add("Papaya");
+            int c = list.Count();
+
+            Console.WriteLine("*** Use case for Liststring class***" );
+
+            Console.WriteLine("This list contains {0} no of items.", c);
             Console.ReadKey();
 
         }
