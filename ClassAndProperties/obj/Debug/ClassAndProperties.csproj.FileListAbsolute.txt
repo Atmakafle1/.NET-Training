@@ -1,0 +1,7 @@
+C:\Users\Atma\source\repos\ClassAndProperties\ClassAndProperties\bin\Debug\ClassAndProperties.exe.config
+C:\Users\Atma\source\repos\ClassAndProperties\ClassAndProperties\bin\Debug\ClassAndProperties.exe
+C:\Users\Atma\source\repos\ClassAndProperties\ClassAndProperties\bin\Debug\ClassAndProperties.pdb
+C:\Users\Atma\source\repos\ClassAndProperties\ClassAndProperties\obj\Debug\ClassAndProperties.csprojResolveAssemblyReference.cache
+C:\Users\Atma\source\repos\ClassAndProperties\ClassAndProperties\obj\Debug\ClassAndProperties.csproj.CoreCompileInputs.cache
+C:\Users\Atma\source\repos\ClassAndProperties\ClassAndProperties\obj\Debug\ClassAndProperties.exe
+C:\Users\Atma\source\repos\ClassAndProperties\ClassAndProperties\obj\Debug\ClassAndProperties.pdb
