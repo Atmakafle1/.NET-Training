@@ -30,8 +30,6 @@ namespace ClassAndProperties
             Console.WriteLine(emp.firstName + " " + emp.lastName + " " +" "+ "is a" +" " + emp.empType +" "+ "employee with" +" "+ emp.noOfYearsInService + " " + "years of experiences.");
             
 
-
-
             var list = new List<string>();
             list.Add("Apple");
             list.Add("Orange");
@@ -42,6 +40,13 @@ namespace ClassAndProperties
             Console.WriteLine("*** Use case for Liststring class***" );
 
             Console.WriteLine("This list contains {0} no of items.", c);
+
+
+            Console.WriteLine("*** DateTime class ***");
+            Console.WriteLine("Today's date is" +" "+ DateTime.Today.ToLocalTime().ToShortDateString());
+            Console.WriteLine("Today's exact date is" + " " + DateTime.Now);
+            Console.WriteLine("Tomorrow's date is" + " " + DateTime.Today.AddDays(1).ToLocalTime());
+            
             Console.ReadKey();
 
         }
