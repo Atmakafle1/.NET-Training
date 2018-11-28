@@ -1,0 +1,10 @@
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\bin\Debug\SquareAndCube.exe.config
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\bin\Debug\SquareAndCube.exe
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\bin\Debug\SquareAndCube.pdb
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\obj\Debug\SquareAndCube.csprojResolveAssemblyReference.cache
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\obj\Debug\SquareAndCube.Form1.resources
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\obj\Debug\SquareAndCube.Properties.Resources.resources
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\obj\Debug\SquareAndCube.csproj.GenerateResource.Cache
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\obj\Debug\SquareAndCube.csproj.CoreCompileInputs.cache
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\obj\Debug\SquareAndCube.exe
+c:\users\atma\source\repos\SquareAndCube\SquareAndCube\obj\Debug\SquareAndCube.pdb
