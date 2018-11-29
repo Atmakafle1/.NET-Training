@@ -1,0 +1,7 @@
+c:\users\atma\source\repos\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe.config
+c:\users\atma\source\repos\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
+c:\users\atma\source\repos\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
+c:\users\atma\source\repos\RectangleArea\RectangleArea\obj\Debug\RectangleArea.csprojResolveAssemblyReference.cache
+c:\users\atma\source\repos\RectangleArea\RectangleArea\obj\Debug\RectangleArea.csproj.CoreCompileInputs.cache
+c:\users\atma\source\repos\RectangleArea\RectangleArea\obj\Debug\RectangleArea.exe
+c:\users\atma\source\repos\RectangleArea\RectangleArea\obj\Debug\RectangleArea.pdb
