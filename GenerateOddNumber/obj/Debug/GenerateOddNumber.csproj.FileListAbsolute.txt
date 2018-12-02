@@ -1,0 +1,6 @@
+C:\Users\Atma\source\repos\GenerateOddNumber\GenerateOddNumber\bin\Debug\GenerateOddNumber.exe.config
+C:\Users\Atma\source\repos\GenerateOddNumber\GenerateOddNumber\bin\Debug\GenerateOddNumber.exe
+C:\Users\Atma\source\repos\GenerateOddNumber\GenerateOddNumber\bin\Debug\GenerateOddNumber.pdb
+C:\Users\Atma\source\repos\GenerateOddNumber\GenerateOddNumber\obj\Debug\GenerateOddNumber.csproj.CoreCompileInputs.cache
+C:\Users\Atma\source\repos\GenerateOddNumber\GenerateOddNumber\obj\Debug\GenerateOddNumber.exe
+C:\Users\Atma\source\repos\GenerateOddNumber\GenerateOddNumber\obj\Debug\GenerateOddNumber.pdb

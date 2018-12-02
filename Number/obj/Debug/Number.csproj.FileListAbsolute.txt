@@ -1,0 +1,7 @@
+c:\users\atma\source\repos\Number\Number\bin\Debug\Number.exe.config
+c:\users\atma\source\repos\Number\Number\bin\Debug\Number.exe
+c:\users\atma\source\repos\Number\Number\bin\Debug\Number.pdb
+c:\users\atma\source\repos\Number\Number\obj\Debug\Number.csprojResolveAssemblyReference.cache
+c:\users\atma\source\repos\Number\Number\obj\Debug\Number.csproj.CoreCompileInputs.cache
+c:\users\atma\source\repos\Number\Number\obj\Debug\Number.exe
+c:\users\atma\source\repos\Number\Number\obj\Debug\Number.pdb

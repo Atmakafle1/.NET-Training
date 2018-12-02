@@ -1,0 +1,6 @@
+C:\Users\Atma\source\repos\DaysInWeek\DaysInWeek\bin\Debug\DaysInWeek.exe.config
+C:\Users\Atma\source\repos\DaysInWeek\DaysInWeek\bin\Debug\DaysInWeek.exe
+C:\Users\Atma\source\repos\DaysInWeek\DaysInWeek\bin\Debug\DaysInWeek.pdb
+C:\Users\Atma\source\repos\DaysInWeek\DaysInWeek\obj\Debug\DaysInWeek.csproj.CoreCompileInputs.cache
+C:\Users\Atma\source\repos\DaysInWeek\DaysInWeek\obj\Debug\DaysInWeek.exe
+C:\Users\Atma\source\repos\DaysInWeek\DaysInWeek\obj\Debug\DaysInWeek.pdb
