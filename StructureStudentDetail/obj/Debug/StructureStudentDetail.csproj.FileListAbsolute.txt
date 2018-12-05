@@ -1,0 +1,7 @@
+C:\Users\Atma\source\repos\StructureStudentDetail\StructureStudentDetail\bin\Debug\StructureStudentDetail.exe.config
+C:\Users\Atma\source\repos\StructureStudentDetail\StructureStudentDetail\bin\Debug\StructureStudentDetail.exe
+C:\Users\Atma\source\repos\StructureStudentDetail\StructureStudentDetail\bin\Debug\StructureStudentDetail.pdb
+C:\Users\Atma\source\repos\StructureStudentDetail\StructureStudentDetail\obj\Debug\StructureStudentDetail.csprojResolveAssemblyReference.cache
+C:\Users\Atma\source\repos\StructureStudentDetail\StructureStudentDetail\obj\Debug\StructureStudentDetail.csproj.CoreCompileInputs.cache
+C:\Users\Atma\source\repos\StructureStudentDetail\StructureStudentDetail\obj\Debug\StructureStudentDetail.exe
+C:\Users\Atma\source\repos\StructureStudentDetail\StructureStudentDetail\obj\Debug\StructureStudentDetail.pdb
