@@ -1,0 +1,7 @@
+C:\Users\Atma\source\repos\HelloDateAndTime\HelloDateAndTime\obj\Debug\HelloDateAndTime.csprojResolveAssemblyReference.cache
+C:\Users\Atma\source\repos\HelloDateAndTime\HelloDateAndTime\obj\Debug\HelloDateAndTime.csproj.CoreCompileInputs.cache
+C:\Users\Atma\source\repos\HelloDateAndTime\HelloDateAndTime\bin\Debug\HelloDateAndTime.exe.config
+C:\Users\Atma\source\repos\HelloDateAndTime\HelloDateAndTime\bin\Debug\HelloDateAndTime.exe
+C:\Users\Atma\source\repos\HelloDateAndTime\HelloDateAndTime\bin\Debug\HelloDateAndTime.pdb
+C:\Users\Atma\source\repos\HelloDateAndTime\HelloDateAndTime\obj\Debug\HelloDateAndTime.exe
+C:\Users\Atma\source\repos\HelloDateAndTime\HelloDateAndTime\obj\Debug\HelloDateAndTime.pdb
