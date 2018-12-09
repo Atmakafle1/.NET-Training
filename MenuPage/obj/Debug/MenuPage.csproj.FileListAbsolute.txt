@@ -1,0 +1,9 @@
+C:\Users\Atma\source\repos\MenuPage\MenuPage\bin\MenuPage.dll.config
+C:\Users\Atma\source\repos\MenuPage\MenuPage\bin\MenuPage.dll
+C:\Users\Atma\source\repos\MenuPage\MenuPage\bin\MenuPage.pdb
+C:\Users\Atma\source\repos\MenuPage\MenuPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Atma\source\repos\MenuPage\MenuPage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Atma\source\repos\MenuPage\MenuPage\obj\Debug\MenuPage.csprojResolveAssemblyReference.cache
+C:\Users\Atma\source\repos\MenuPage\MenuPage\obj\Debug\MenuPage.csproj.CoreCompileInputs.cache
+C:\Users\Atma\source\repos\MenuPage\MenuPage\obj\Debug\MenuPage.dll
+C:\Users\Atma\source\repos\MenuPage\MenuPage\obj\Debug\MenuPage.pdb
