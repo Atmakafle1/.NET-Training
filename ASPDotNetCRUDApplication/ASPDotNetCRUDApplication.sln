@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPDotNetCRUDApplication", "ASPDotNetCRUDApplication\ASPDotNetCRUDApplication.csproj", "{A8E89294-C211-45A6-A77D-E3243C4FDF02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8E89294-C211-45A6-A77D-E3243C4FDF02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8E89294-C211-45A6-A77D-E3243C4FDF02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8E89294-C211-45A6-A77D-E3243C4FDF02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8E89294-C211-45A6-A77D-E3243C4FDF02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5440DEE8-B9F0-4BBB-80EA-DFAE3A67D02B}
+	EndGlobalSection
+EndGlobal
