@@ -1,0 +1,7 @@
+E:\Users\Administrator\source\repos\LINQMaxNumbers\LINQMaxNumbers\bin\Debug\LINQMaxNumbers.exe.config
+E:\Users\Administrator\source\repos\LINQMaxNumbers\LINQMaxNumbers\bin\Debug\LINQMaxNumbers.exe
+E:\Users\Administrator\source\repos\LINQMaxNumbers\LINQMaxNumbers\bin\Debug\LINQMaxNumbers.pdb
+E:\Users\Administrator\source\repos\LINQMaxNumbers\LINQMaxNumbers\obj\Debug\LINQMaxNumbers.csprojAssemblyReference.cache
+E:\Users\Administrator\source\repos\LINQMaxNumbers\LINQMaxNumbers\obj\Debug\LINQMaxNumbers.csproj.CoreCompileInputs.cache
+E:\Users\Administrator\source\repos\LINQMaxNumbers\LINQMaxNumbers\obj\Debug\LINQMaxNumbers.exe
+E:\Users\Administrator\source\repos\LINQMaxNumbers\LINQMaxNumbers\obj\Debug\LINQMaxNumbers.pdb

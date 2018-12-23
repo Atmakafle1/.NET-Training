@@ -1,0 +1,7 @@
+E:\Users\Administrator\source\repos\LINQDivisibleByFive\LINQDivisibleByFive\bin\Debug\LINQDivisibleByFive.exe.config
+E:\Users\Administrator\source\repos\LINQDivisibleByFive\LINQDivisibleByFive\bin\Debug\LINQDivisibleByFive.exe
+E:\Users\Administrator\source\repos\LINQDivisibleByFive\LINQDivisibleByFive\bin\Debug\LINQDivisibleByFive.pdb
+E:\Users\Administrator\source\repos\LINQDivisibleByFive\LINQDivisibleByFive\obj\Debug\LINQDivisibleByFive.csprojAssemblyReference.cache
+E:\Users\Administrator\source\repos\LINQDivisibleByFive\LINQDivisibleByFive\obj\Debug\LINQDivisibleByFive.csproj.CoreCompileInputs.cache
+E:\Users\Administrator\source\repos\LINQDivisibleByFive\LINQDivisibleByFive\obj\Debug\LINQDivisibleByFive.exe
+E:\Users\Administrator\source\repos\LINQDivisibleByFive\LINQDivisibleByFive\obj\Debug\LINQDivisibleByFive.pdb
