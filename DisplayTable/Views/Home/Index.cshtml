@@ -1,0 +1,22 @@
+﻿@model IEnumerable<DisplayTable.Models.Employee>
+@{
+    ViewBag.Title = "Index";
+}
+
+<table>
+    <tr>
+        <th>Student Name</th>
+        <th>Subject</th>
+        <th>Marks</th>
+    </tr>
+
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.StudentName</td>
+            <td>@d.Subject</td>
+            <td>@d.Marks</td>
+        </tr>
+    }
+</table>
+
